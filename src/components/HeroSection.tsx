@@ -43,7 +43,7 @@ const HeroSection = () => {
             </Button>
             
             <a
-              href="/Muditha Madushanka CV.pdf"
+              href="/Muditha_Madushanka_CV.pdf"
               download="Muditha_Madushanka_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
